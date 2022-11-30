@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\home1\bin\Debug\home1.exe.config
+C:\Users\user\source\repos\home1\bin\Debug\home1.exe
+C:\Users\user\source\repos\home1\bin\Debug\home1.pdb
+C:\Users\user\source\repos\home1\obj\Debug\home1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\home1\obj\Debug\home1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\home1\obj\Debug\home1.Properties.Resources.resources
+C:\Users\user\source\repos\home1\obj\Debug\home1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\home1\obj\Debug\home1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\home1\obj\Debug\home1.exe
+C:\Users\user\source\repos\home1\obj\Debug\home1.pdb
+C:\Users\user\source\repos\home1\obj\Debug\home1.home1.resources
+C:\Users\user\source\repos\home1\obj\Debug\home1.join.resources
+C:\Users\user\source\repos\home1\obj\Debug\home1.book.resources
+C:\Users\user\source\repos\home1\obj\Debug\home1.home.resources
